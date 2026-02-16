@@ -19,3 +19,5 @@
 
 ## 배포 (Deployment)
 GitHub Pages 설정에서 `Source`를 `main` 브랜치로 선택하면 바로 배포됩니다.
+https://YeomJaemoo.github.io/travel-english/
+배포된 상태입니다.
